@@ -1,0 +1,7 @@
+escuela 342 Lunes de 9:25 a 10:10
+escuela 031 Lunes de 10:20 a 11:05
+escuela 136 Miércoles de 9:15 a 10:00
+escuela 175 Miércoles de 10:20 a 11:05
+escuela 030 Miércoles de 11:15 a 12:00
+escuela falsa Sábado de 10:10 a 11:00
+escuela falsa2 Sábado de 20:00 a 22:00
